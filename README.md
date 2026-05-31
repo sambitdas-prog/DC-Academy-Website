@@ -51,7 +51,8 @@ http://localhost:8000
 ### Deploy
 Because this is a static website, it can be hosted on any static web host such as GitHub Pages, Netlify, Vercel, Firebase Hosting, or plain Apache/Nginx.
 
-## Development
+## URL
+dcacademybirati.vercel.app
 
 ### Editing
 - Update content in `index.html`, `privacy.html`, and `terms.html`
